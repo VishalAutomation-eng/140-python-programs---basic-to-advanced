@@ -14,6 +14,8 @@ The programs in this repository extensively cover:
 - **Sets**
 - **Dictionaries**
 - **Strings**
+- **Loops**
+- **Conditional statements**
 
 Each data structure includes programs ranging from **basic operations** to **advanced problem-solving scenarios**.
 
@@ -39,3 +41,5 @@ python-data-structures/
 ├── sets/
 ├── dictionaries/
 ├── strings/
+├── Loops
+├── conditional statements
